@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WebViewDropDownIssue</string>
+    <string name="hello_world"><![CDATA[Demo app illustrating how interacting with HTML <select>/drop down elements
+    for WebView instances created via a Service cause an application to crash <b>phones</b> 100% of the time.\n\nNote:
+    drop down elements display fine on tablets, where the item contents are rendered as part of the page HTML
+    as opposed to displaying in a Dialog. Phones are the problem.]]></string>
+
+</resources>
